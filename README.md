@@ -177,7 +177,6 @@ python chatbot.py
 - Integrate NLP libraries (`nltk`, `spaCy`) for intent recognition instead of raw substring matching
 - Handle typos and fuzzy matching (e.g., `difflib`, `rapidfuzz`)
 - Add conversation logging to a file or database
-- Wrap the logic in a GUI (Tkinter) or web interface (Flask)
 - Swap rule-based logic for an LLM-powered backend for open-ended conversation
 
 <div align="center">
