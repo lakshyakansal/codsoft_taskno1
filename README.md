@@ -164,8 +164,7 @@ python chatbot.py
 ## ⚠️ Limitations
 
 - Purely rule-based — no understanding of context, grammar, or intent
-- Only detects exact substrings, so typos or rephrased questions go unrecognized
-- No memory of previous messages within the conversation
+- Only detects exact substrings, so typos or rephrased questions go unrecognised
 - Single-turn matching only — can't handle multi-part or follow-up questions
 - No persistence — nothing is logged or saved between sessions
 
